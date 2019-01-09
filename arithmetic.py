@@ -4,8 +4,8 @@
 def add(num1, num2):
     """Return the sum of the two inputs."""
 
-
-    return(num1 + num2)
+    num3 = int(num1+ num2)
+    return(num3)
 
 
 def subtract(num1, num2):
