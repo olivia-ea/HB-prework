@@ -70,6 +70,8 @@ while True:
     elif operator == "cubes+":
         result = add_cubes(float(num1), float(num2))
 
+    elif operator == "double*":
+        result = add_double(float(num1))
     else:
         result = "Please enter an operator followed by two integers."
 
