@@ -1,5 +1,5 @@
 """A prefix-notation calculator."""
-
+"""
 
 from arithmetic import *
 
@@ -76,3 +76,4 @@ while True:
         result = "Please enter an operator followed by two integers."
 
     print(result)
+"""
